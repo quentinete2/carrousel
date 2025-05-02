@@ -1,0 +1,16 @@
+.carrousel-image  {
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+  }
+
+.carrousel-image-right {
+  width: 500px;
+  height: 300px;
+}
+
+.carrousel-image-left {
+  width: 500px;
+  height: 300px;
+}
